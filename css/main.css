@@ -136,6 +136,8 @@ footer{
     top: 25%; /* 25% from the top */
     width: 25%; /* 100% width */
     margin-top: 30px;
+
+    border: solid 5px white;
 }
 
 /* The navigation links inside the overlay */
