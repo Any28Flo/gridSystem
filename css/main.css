@@ -98,6 +98,10 @@ header{
   font-size: 35px;
   letter-spacing: 2px;
 }
+.workImage{
+  height: 200px;
+  width:250px;
+}
 footer{
   text-align: center;
   height: 70px;
